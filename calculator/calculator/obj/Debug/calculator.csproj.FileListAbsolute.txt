@@ -1,0 +1,38 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+F:\KonsoleProect\calculator\calculator\bin\Debug\calculator.exe.config
+F:\KonsoleProect\calculator\calculator\bin\Debug\calculator.exe
+F:\KonsoleProect\calculator\calculator\bin\Debug\calculator.pdb
+F:\KonsoleProect\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+F:\KonsoleProect\calculator\calculator\obj\Debug\calculator.Form1.resources
+F:\KonsoleProect\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+F:\KonsoleProect\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+F:\KonsoleProect\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+F:\KonsoleProect\calculator\calculator\obj\Debug\calculator.exe
+F:\KonsoleProect\calculator\calculator\obj\Debug\calculator.pdb
+E:\KonsoleProect\calculator\calculator\bin\Debug\calculator.exe.config
+E:\KonsoleProect\calculator\calculator\bin\Debug\calculator.exe
+E:\KonsoleProect\calculator\calculator\bin\Debug\calculator.pdb
+E:\KonsoleProect\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+E:\KonsoleProect\calculator\calculator\obj\Debug\calculator.Form1.resources
+E:\KonsoleProect\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\KonsoleProect\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+E:\KonsoleProect\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+E:\KonsoleProect\calculator\calculator\obj\Debug\calculator.exe
+E:\KonsoleProect\calculator\calculator\obj\Debug\calculator.pdb
